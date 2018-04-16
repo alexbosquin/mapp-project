@@ -1,0 +1,8 @@
+{
+  "name": "nerd-mapp",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
